@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I am Divy Mav👋 I'm Blockchain enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Blockchain , Full-Stack Web Development and DevOps and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest areas also includes drawing and sketching🎨🖌️</p>
+<p align="left">Hello, I am Divy Mav👋 I'm Blockchain enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Machine Learning , Full-Stack Web Development and DevOps and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest areas also includes drawing and sketching🎨🖌️</p>
 
 ###
 
