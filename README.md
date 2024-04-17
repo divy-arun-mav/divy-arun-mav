@@ -1,16 +1,19 @@
-# <img src="https://res.cloudinary.com/djy7my1mw/image/upload/v1713355840/ezgif.com-crop_af2a6y.gif" style="border-radius: 30px; width: 30px;" />  About Me:  <img src="https://komarev.com/ghpvc/?username=divy-arun-mav&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Divine" align="right" />
+# <img src="https://res.cloudinary.com/djy7my1mw/image/upload/v1713355840/ezgif.com-crop_af2a6y.gif" style="border-radius: 30px; width: 30px;" />  About Me:  
 
 ###
 
 <p align="left">Hello, I am Divy Mav👋 I'm Blockchain enthusiat from India. Always ready to learn new things. Currently, increasing my knowledge in feild of Machine Learning , Full-Stack Web Development and DevOps and building my own projects. I'm also interested in space related research 🚀 🛰️. Apart from this my interest areas also includes drawing and sketching🎨🖌️</p>
 
+<img src="https://komarev.com/ghpvc/?username=divy-arun-mav&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Divine" align="left" />
+<br>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divy-arun-mav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divy-arun-mav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=divy-arun-mav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divy-arun-mav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divy-arun-mav&theme=dark" alt="divy-arun-mav" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divy-arun-mav&theme=dark&hide_border=true" alt="divy-arun-mav" /></p>
 
 ###
 
