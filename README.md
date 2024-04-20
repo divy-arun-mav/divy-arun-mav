@@ -1,4 +1,4 @@
-# <img src="https://res.cloudinary.com/djy7my1mw/image/upload/v1713355840/ezgif.com-crop_af2a6y.gif" style="border-radius: 30px; width: 30px;" />  About Me:  
+# <img src="https://res.cloudinary.com/djy7my1mw/image/upload/v1713355840/ezgif.com-crop_af2a6y.gif" style="border-radius: 50%; width: 30px;" />  About Me:  
 
 ###
 
