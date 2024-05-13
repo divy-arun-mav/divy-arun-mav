@@ -98,8 +98,6 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="redhat logo"  />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="30" alt="redis logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
