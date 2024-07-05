@@ -70,8 +70,6 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="30" alt="handlebars logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/internetexplorer/0076D6" height="30" alt="ie10 logo"  />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo"  />
