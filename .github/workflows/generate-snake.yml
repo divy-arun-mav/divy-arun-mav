@@ -24,11 +24,13 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '16'  # Specify the Node.js version you want
 
       - name: Install dependencies
-        run: |
-          npm install canvas
+        run: npm install canvas
+
+      - name: Ensure dist directory exists
+        run: mkdir -p dist
 
       - name: Generate snake.svg with bluish theme and orange snake
         uses: Platane/snk/svg-only@v3
@@ -40,9 +42,6 @@ jobs:
             dist/snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Ensure dist directory exists
-        run: mkdir -p dist
 
       - name: Debug information
         run: ls -alh dist
