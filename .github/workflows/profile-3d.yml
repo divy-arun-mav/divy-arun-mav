@@ -1,0 +1,54 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          PROFILE_3D_CONFIG: |
+            profile:
+              username: Divyam-123
+              name: Divyam
+              timezone: Asia/Kolkata
+              description: "Blockchain & AI Enthusiast | Full-Stack Dev | SDE Intern at UBS"
+            
+            output:
+              format: svg
+              file: profile-3d-contrib.svg
+              width: 800
+              height: 400
+              border: 20
+              background: transparent
+              animation: true
+            
+            colors:
+              background: "#ffffff00"
+              grid: "#DDDDDD"
+              diagonal: "#BBBBBB"
+              squareEmpty: "#EEEEEE"
+              square: "#3E64FF"
+              squareActive: "#0023A3"
+            
+            settings:
+              weeks: 52
+              days: 7
+              maxLevel: 4
+              scale: 1.2
+              smoothing: 0.5
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
