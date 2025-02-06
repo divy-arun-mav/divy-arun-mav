@@ -17,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           PROFILE_3D_CONFIG: |
             profile:
-              username: Divyam-123
-              name: Divyam
+              username: divy-arun-mav
+              name: Divy Arun Mav
               timezone: Asia/Kolkata
               description: "Blockchain & AI Enthusiast | Full-Stack Dev | SDE Intern at UBS"
             
