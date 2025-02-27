@@ -153,10 +153,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divy-arun-mav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divy-arun-mav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divy-arun-mav&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divy-arun-mav&layout=compact&theme=dark&count_private=true&langs_count=8" alt="Most Used Languages" />
+</p>
 </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divy-arun-mav&theme=dark&hide_border=true" alt="divy-arun-mav" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divy-arun-mav&theme=dark" alt="GitHub Streak Stats" />
+</p>
 
 ###
 <img src="https://raw.githubusercontent.com/divy-arun-mav/divy-arun-mav/main/profile-3d-contrib/profile-night-rainbow.svg">
