@@ -4,7 +4,7 @@
 
 ###
 
-- 💼 **Upcoming SDE Intern @ UBS** | **Former Full-Stack Developer Intern**
+- 💼 **Ex-SWE Intern @ UBS** | **Former Full-Stack Developer Intern**
 - 🏗 **Blockchain & Smart Contracts Developer** (Hyperledger, Solidity, Ethereum, Polygon)
 - ⚡ **AI/ML & Generative AI** Enthusiast
 - 🌍 **Building Web3 & Decentralized Infrastructure**
