@@ -13,7 +13,7 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=divy-arun-mav&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Divine" align="left" />
-<a href="https://divy-mav.netlify.app/" target="_blank">do not touch it! ☝️</a>
+<a href="https://divymav.netlify.app/" target="_blank">do not touch it! ☝️</a>
 
 ---
 
